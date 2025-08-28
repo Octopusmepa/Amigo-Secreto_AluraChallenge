@@ -1,6 +1,9 @@
 # 🎁 Amigo Secreto  
 
 Un proyecto simple en **HTML, CSS y JavaScript** que permite añadir nombres a una lista y sortear un **amigo secreto** de manera aleatoria.  
+En esta práctica se ocupó una plantilla de HTML y CSS la cual nos proporciono Alura Latam.
+Lo cual, quiere decir que desarrolle con su formación el código de Javascript. 
+
 
 ---
 
